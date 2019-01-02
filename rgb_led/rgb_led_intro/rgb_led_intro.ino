@@ -25,7 +25,9 @@ void loop()
   setColor(0, 0, 255);  // blue
   delay(1000);
   setColor(255, 255, 0);  // yellow
-  delay(1000);  
+  delay(1000);
+  setColor(30, 30, 30);  // white
+  delay(1000);
   //setColor(80, 0, 80);  // purple
   //delay(1000);
   //setColor(0, 255, 255);  // aqua
