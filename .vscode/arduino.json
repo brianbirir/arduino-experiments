@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "port": "/dev/tty.usbmodem141101",
+    "sketch": "dht11/dht11_sensor/dht11_sensor.ino"
+}
